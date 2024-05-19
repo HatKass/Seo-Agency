@@ -10,7 +10,7 @@ import { Testimonials } from "@/constants";
 
 const Testimonial = () => {
   return (
-    <section className="flex justify-center flex-col  items-center p-12 bg-gradient-to-r from-[#FEBB94] to-[#FF8C49] ">
+    <section className="flex justify-center flex-col  items-center p-12 bg-gradient-to-r from-[#D2E2FF] to-[#5375D9] ">
       <h3 className="lg:text-4xl md:text-3xl text-2xl mb-10 font-bold text-center">
         Testimonials
       </h3>

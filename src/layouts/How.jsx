@@ -10,7 +10,7 @@ const How = () => {
         {How_We_Work.map((service, index) => (
           <div
             key={index}
-            className="flex lg:items-start items-center flex-col lg:max-w-[270px] space-y-[10px] p-[30px] bg-[#EDF2FF] hover:bg-[#FEBB94] border hover:border-black transition-all duration-300 ease-in-out "
+            className="flex lg:items-start items-center flex-col lg:max-w-[270px] space-y-[10px] p-[30px] bg-[#EDF2FF] hover:bg-[#5375D9] border hover:border-black transition-all duration-300 ease-in-out "
           >
             <img
               className="lg:w-[50px] lg:h-[45px] w-[30px] h-[30px] "
